@@ -103,17 +103,17 @@ IMPORTANT: all the active development happens on the `ep2020` branch, `master` i
 ## Development Guidelines
 
 To give you some direction of where we're going with the codebase, here's a
-short of list of things we have in mind for the near future.
+short list of things we have in mind for the near future.
 
 * The current codebase needs major refactorings and updates, and we really
   appreciate all the help, but before doing anything big please talk to us
-  (EuroPython Web WG), so we can coordinate with other ongoing developments.
+  (EuroPython Web WG), so that we can coordinate with other ongoing developments.
 
   You can use github issues for that, or find us on our public telegram group
   here -> https://t.me/sprintseuropythonsite
 
 * We currently have three major django apps – p3, assopy and conference. They
-  are here for historical reasons, and our plan forward is to slowly get rid of
+  are here for historical reasons, and our forward plan is to slowly get rid of
   p3 and assopy and replace all of them with just conference app. (This is very
   long term plan)
 
